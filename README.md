@@ -1,0 +1,1 @@
+# go-email-domain-checker
